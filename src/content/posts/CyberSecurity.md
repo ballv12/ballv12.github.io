@@ -8,10 +8,8 @@ draft: False
 
 # CyberSecurity
 
-# DOGE Staffer Previously Fired From Cybersecurity Company for Leaking Secrets
+# teen on Musk's DOGE team was fired by cybersecurity firm
 
-The teen went by Big Balls online.
+The 19-year-old New Canaan native on Elon Musk’s DOGE team was previously fired from a cybersecurity firm after being accused of sharing information with a competitor, according to a media report.
 
-Edward Coristine, a 19-year-old member of Elon Musk’s DOGE, was fired from his previous job at a cybersecurity company for leaking company secrets, according to a new report from Bloomberg News. Coristine was an intern at Arizona-based Path Network in 2022 when he was fired for allegedly sharing information about the company with a competing company.
-
-The DOGE team was assembled by Musk to supposedly look for ways to battle waste, fraud, and abuse in the federal government, all with the blessing of President Donald Trump, but the reality is much darker. The DOGE soldiers have been ransacking every agency they touch, gaining access to private information and the kinds of things that a foreign adversary would love to get their hands on.
+U.S. DOGE Service — better known as the Department of Governmental Efficiency — was fired from an internship at Path Network, Bloomberg News reports, based on a June 2022 email. Edward has been terminated for leaking internal information to the competitors,” Bloomberg News reported the email said. “This is unacceptable and there is zero tolerance for this.
