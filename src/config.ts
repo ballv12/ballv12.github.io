@@ -7,8 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'ball',
+  subtitle: 'backflip',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: false,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'https://people.com/thmb/HSSthZrlQs5G6NxljQoY5Jj55I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/snoopy-1f5571532ca54022b5eae307ab3381d6.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
@@ -51,26 +51,26 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: 'https://pbs.twimg.com/profile_images/1653887603752554496/h8C0bcgS_400x400.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  name: 'ball',
+  bio: 'Hello I just like to code most anything.',
   links: [
     {
       name: 'Twitter',
       icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://x.com/ballv12_',
     },
     {
       name: 'Steam',
       icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      url: 'https://steamcommunity.com/profiles/76561199125212829/',
     },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/ballv12',
     },
   ],
 }
