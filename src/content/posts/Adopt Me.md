@@ -10,3 +10,8 @@ draft: False
 Moon Egg Release Notes!
 
 Neptune with an adorable Puptune , or glide along the ⭐⭐⭐Sunglider !
+
+🥚 MOON EGG LANDED! 🥚
+🌑 Hatch one of 8 new Moon Egg pets!
+🛸 Adopt the Legendary Dimension Drifter!
+⭐ Collect Shooting Stars and Special Stars!
