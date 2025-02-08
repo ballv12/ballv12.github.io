@@ -1,7 +1,7 @@
 ---
 title: CyberSecurity
 published: 2025-08-02
-tags: [Blogging,CyberSecurity]
+tags: [CyberSecurity]
 category: CyberSecurity
 draft: False
 ---
