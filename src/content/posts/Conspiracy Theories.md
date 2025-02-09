@@ -34,6 +34,7 @@ He was first on the scene of Marianne Nichols murder. He gave a false name of Ch
 He was never charged and died in 1920 at the age of 71.
 
 **Other suspect**
+
 The theory is Ghandi is not who he claimed to be. 
 
 Ghandi came to London in 1888. Jack the Ripper started his killing spree in 1888. Ghandi returned to India in 1891 Jacks supposed last murder was in 1891. Jacks identity was never found out.
