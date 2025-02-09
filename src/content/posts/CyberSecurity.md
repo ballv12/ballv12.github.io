@@ -11,7 +11,18 @@ draft: False
 
 # Feb 8 2025
 
-PlayStation Network outage live updates – PSN is back after a massive disruption
+## Federal judge blocks Elon Musk’s DOGE access to critical Treasury payment system
+
+The judge’s order, issued early Saturday, temporarily halts access to a sensitive payment system 
+that distributes Americans’ tax returns, Social Security benefits, disability payments and federal employees’ salaries.
+
+US District Judge Paul Engelmayer ordered the destruction of any downloaded information from the payment 
+system by anyone given access to it since January 20, citing “the risk that the new policy presents of the 
+disclosure of sensitive and confidential information and the heightened risk that the systems in question 
+will be more vulnerable than before to hacking.”
+
+
+## PlayStation Network outage live updates – PSN is back after a massive disruption
 
 A PlayStation Network outage is exactly what you don't need on a weekend, but it's unfortunately what we had for over 24 hours.
 
