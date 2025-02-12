@@ -9,6 +9,9 @@ category: CyberSecurity
 draft: False
 ---
 
+# Feb 11 2025
+The Anonymous hacker group has published a video warning the Trump regime in the US that it is planning attacks on weaknesses created by Trump’s mass assault on the fabric and structures of the US state – and calling on the American people to rise up against the fascist regime now because ‘the cost of resistance will be far greater’ if they delay
+
 # Feb 8 2025
 
 ## Federal judge blocks Elon Musk’s DOGE access to critical Treasury payment system
