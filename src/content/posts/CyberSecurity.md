@@ -1,7 +1,7 @@
 ---
 title: CyberSecurity
 published: 2025-08-02
-updated: 2025-08-02
+updated: 2025-11-02
 description: ''
 image: ''
 tags: [CyberSecurity]

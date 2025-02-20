@@ -1,7 +1,7 @@
 ---
 title: Conspiracy Theories
 published: 2025-09-02
-updated: 2025-09-02
+updated: 2025-17-02
 description: ''
 image: ''
 tags: [Theories]
