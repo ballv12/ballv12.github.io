@@ -46,4 +46,6 @@ And now it's gone my dad saying they are not going to trust me any more. They to
 
 On if should I run away from home she said I can't because i'm not 18 the cops will bring me back. This whole time I been thinking on what to do I was thinking on trying to find a job save money to buy a place to stay.
 
-I'm tried of this place they always get mad at me it drives me crazy. They mess me up bad that I think no wants me I should die. I talk to god to take me away already i'm tried of living I can't anymore. I lost my brother and sister they were so young I say that I was a bad brother. 
+I'm tried of this place they always get mad at me it drives me crazy. They mess me up bad that I think no wants me I should die. I talk to god to take me away already i'm tried of living I can't anymore. I lost my brother and sister they were so young I say that I was a bad brother.
+
+Anyways I went to my room to get some of my stuff to sleep and take a shower. I'm sleeping at my parnts room on the floor. I have a hard time sleeping the floor is hard and I wake up with my body hurting.
