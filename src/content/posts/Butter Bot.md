@@ -11,6 +11,6 @@ draft: False
 
 Codes coming soon this **Summer of 2025**
 
-![alt text](Butter-Bot.png)
+![alt text](Butter-bot.png)
 
 ![alt text](Butter-Features.png)
