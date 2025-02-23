@@ -52,7 +52,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'https://pbs.twimg.com/profile_images/1653887603752554496/h8C0bcgS_400x400.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'ball',
+  name: 'bell',
   bio: 'Hello I just like to code most anything.',
   links: [
     {
