@@ -5,7 +5,7 @@ updated: 2025-17-02
 description: ''
 image: ''
 tags: [Theories]
-category: Conspiracy Theories
+category: Theories
 draft: False
 ---
 

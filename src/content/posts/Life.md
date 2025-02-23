@@ -5,7 +5,7 @@ updated: 2025-19-02
 description: ''
 image: ''
 tags: [Life]
-category: Life
+category: Blog
 draft: True
 ---
 
