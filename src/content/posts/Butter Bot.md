@@ -9,8 +9,8 @@ category: Side project
 draft: False
 ---
 
-Codes coming soon this *Summer of 2025*
+Codes coming soon this **Summer of 2025**
 
-![alt text](image.png)
+![alt text](Butter Bot.png)
 
-![alt text](image-1.png)
+![alt text](Butter bot Features.png)
