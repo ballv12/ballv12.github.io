@@ -1,7 +1,7 @@
 # About
 Hi I like to code anything just like this blog.
 
-https://lanyard.cnrad.dev/api/607846264293556237
+<a href="https://discord.com/users/607846264293556237"><img src="https://lanyard.cnrad.dev/api/607846264293556237" /></a>
 
 ![playing](https://api.statusbadges.me/badge/playing/607846264293556237?style=for-the-badge)
 [![spotify](https://api.statusbadges.me/badge/spotify/607846264293556237?style=for-the-badge)](https://api.statusbadges.me/openspotify/607846264293556237)
