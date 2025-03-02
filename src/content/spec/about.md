@@ -1,5 +1,5 @@
 # About
-Hi I like to code anything just like this blog.
+###### Hi I like to code anything just like this blog.
 
 <a href="https://discord.com/users/607846264293556237"><img src="https://lanyard.cnrad.dev/api/607846264293556237" /></a>
 
