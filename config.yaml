@@ -1,0 +1,16 @@
+    comments:
+        enabled: true
+        provider: giscus
+
+    ...
+
+        giscus:
+            repo: katsuobushiFPGA/blog-hugo-comment
+            repoID: "data-repo-idの値"
+            category: "data-categoryの値"
+            categoryID: "data-category-idの値"
+            mapping: "data-mappingの値"
+            lightTheme: light
+            darkTheme: dark
+            reactionsEnabled: 1
+            emitMetadata: 0

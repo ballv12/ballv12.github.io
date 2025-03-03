@@ -15,18 +15,5 @@ Codes coming soon this **Summer of 2025**
 
 ![alt text](Butter-Features.png)
 
-<script src="https://giscus.app/client.js"
-        data-repo="ballv12/ballv12.github.io"
-        data-repo-id="R_kgDON-BUUQ"
-        data-category="Announcements"
-        data-category-id="DIC_kwDON-BUUc4Cngjm"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+-comments: false
++comments: true
