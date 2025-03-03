@@ -14,15 +14,3 @@ Codes coming soon this **Summer of 2025**
 ![alt text](Butter-bot.png)
 
 ![alt text](Butter-Features.png)
-
-const Giscus = dynamic(() => import('@/app/giscus').then((m) => m.Comment), {
-  ssr: false,
-})
-
-export default function Home() {
-  return (
-    <main>
-      <Giscus />
-    </main>
-  )
-}
