@@ -32,7 +32,7 @@ If you looking to jam signals you will need
 1. Rabbit Labs - Flux Capacitor Amplified CC1101
 2. 2 Two-way Signal Amlifier Module: you will need two of these
 3. Rabbit-Labs Custom Upgraded Battery for H2M/H4M
-![alt text](Longe-range.png)
+![alt text](Long-range.png)
 
 # Where to buy
 
